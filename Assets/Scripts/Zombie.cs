@@ -26,7 +26,6 @@ public class Zombie : MonoBehaviour
         if (death)
         {
             col.enabled = false;
-            // Debug.Log("Zombie death acced");
             anim.SetTrigger("Death");
 
             if (this.anim.GetCurrentAnimatorStateInfo(0).IsName("Zombie_Death"))
@@ -35,7 +34,7 @@ public class Zombie : MonoBehaviour
                 death = false;
             }
 
-            canMove = false;
+            canMove = false;//Stop Movement
 
         }
         if (canMove)

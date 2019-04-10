@@ -37,7 +37,8 @@ public class ZombieSpawner : MonoBehaviour
 
         spawnClock -= 1f * Time.deltaTime;
         if (spawnClock <= 0)
-        {
+        { 
+            /* Selecting & Spawing Zombie Randomly */
             spawn = Random.Range(0, randonNo);
             switch (spawn)
             {
@@ -73,8 +74,8 @@ public class ZombieSpawner : MonoBehaviour
 
     public void IncreaseDeath()
     {
+        /* Increasing Player Points */
         points++;
-        //Debug.Log("No of Deaths = " + points);
         killPoints.SetText(points.ToString());
        if(points % 5 == 0 && spawnTime > 1f)
        {

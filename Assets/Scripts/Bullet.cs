@@ -23,6 +23,7 @@ public class Bullet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        /* Bullet Movement */
         transform.Translate(Vector2.right * thrust * Time.deltaTime);
         bulletTime++;
 
