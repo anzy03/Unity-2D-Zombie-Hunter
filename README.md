@@ -19,3 +19,7 @@ The game is meant to be played on Mobile platform.
 * Specical Powers - Some Powers that have different effects.
 
 # Screenshots.
+
+![](Screenshots/SS2.png)
+![](Screenshots/SS3.png)
+![](Screenshots/SS4.png)
