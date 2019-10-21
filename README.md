@@ -16,7 +16,7 @@ The game is meant to be played on Mobile platform.
 ### Future Improvements.
 * Civilians - npcs that u dont have to shoot.
 * Big Zombies - Zombies that a bigger and hard to kill.
-* Specical Powers - Some Powers that have different effects.
+* Special Powers - Some Powers that have different effects.
 
 # Screenshots.
 
