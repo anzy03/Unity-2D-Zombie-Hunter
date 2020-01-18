@@ -1,6 +1,6 @@
 # Unity-2D-Zombie-Hunter
 
-The Name of this game is Zombie Hunter. Its a lane based never ending Zombie shooter, where there are 3 lanes and 2 types of zombie. The zombies are spawned randomly in any if the 3 lanes with randomied type. The players aim is the stop the zombies to hit the line of defence. The spawn rate for the Zombies increse as the player accumlates more time.
+The Name of this game is Zombie Hunter. It’s a lane based never ending Zombie shooter, where there are 3 lanes and 2 types of zombie. The zombies are spawned randomly in any if the 3 lanes with randomized type. The players aim is the stop the zombies to hit the line of defense. The spawn rate for the Zombies increase as the player accumulates more time
 
 ### Target Platfrom.
 The game is meant to be played on Mobile platform.
